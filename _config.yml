@@ -18,7 +18,7 @@ tagline: A Jekyll template for course websites
 description: A demo course website
 author: Anwar Mirza
 baseurl: 'https://anwarmirza.github.io' # the subpath of your site, e.g. /blog
-url: '/dsp' # the base hostname & protocol for your site, e.g. http://example.com
+url: '/demoCourse' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -30,8 +30,8 @@ permalink: pretty
 aux_links:
   Anwar Mirza:
     - 'https://anwarmirza.github.io'
-  DSP Class on GitHub:
-    - 'https://anwarmirza.github.io/dsp'
+  Demo Class on GitHub:
+    - 'https://anwarmirza.github.io/demoCourse'
 footer_content:
 
 # Collections for website data
